@@ -6,3 +6,6 @@
       -Dpackaging=jar 
       -Dfile=ojdbc14.jar 
       -DgeneratePom=true
+      
+      
+      netstat -aon | more
